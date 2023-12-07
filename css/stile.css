@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+  box-sizing: border-box;
+}
+.fondo{
+    background-color: aqua;
+}
+.titulo{
+    text-align: center;
+    text-decoration: underline;
+    background-color: aqua;
+    padding: 2rem;
+}
+.img1{
+    display: flex;
+    flex-direction: column;
+    background-image: url(../imagenes/bordo1-2db0319eeb754adc7116247672988793-1024-1024.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
